@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<!-- 
+  <test name="Purchase">
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="com.zoho.crm.scripts.ProductsScript"/>
+    </classes>
+  </test>
+   -->
+   
+   <!-- 
+  <test name="Purchase1">
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="com.zoho.crm.scripts.PriceBookScript"/>
+    </classes>
+  </test>
+   -->
+    <test name="Purchase2">
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="com.zoho.crm.scripts.PurchaseOrdersScript"/>
+    </classes>
+  </test>
+</suite>

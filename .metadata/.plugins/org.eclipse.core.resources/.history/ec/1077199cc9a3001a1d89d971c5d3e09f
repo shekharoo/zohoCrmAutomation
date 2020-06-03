@@ -1,0 +1,32 @@
+01-Jun-2020 11:02:36.586 INFO  generics.BaseTest -=======================================================================
+01-Jun-2020 11:02:36.627 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+01-Jun-2020 11:02:36.627 INFO  generics.BaseTest -=======================================================================
+01-Jun-2020 11:02:36.629 INFO  generics.BaseTest -Path set up successful
+01-Jun-2020 11:02:40.331 INFO  pages.LoginPage -=======================================================================
+01-Jun-2020 11:02:40.332 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+01-Jun-2020 11:02:40.332 INFO  pages.LoginPage -=======================================================================
+01-Jun-2020 11:02:42.682 INFO  generics.BaseTest -Chrome browser window is maximized
+01-Jun-2020 11:02:54.019 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+01-Jun-2020 11:02:54.978 INFO  pages.LoginPage -login button is displayed
+01-Jun-2020 11:03:00.544 INFO  pages.LoginPage -login button is clicked
+01-Jun-2020 11:03:00.760 INFO  pages.LoginPage -Email text field is displayed
+01-Jun-2020 11:03:02.317 INFO  pages.LoginPage -Email is filled
+01-Jun-2020 11:03:02.720 INFO  pages.LoginPage -Next Button is displayed
+01-Jun-2020 11:03:02.999 INFO  pages.LoginPage -After Email NextBtn is clicked
+01-Jun-2020 11:03:03.421 INFO  pages.LoginPage -Password text field is displayed
+01-Jun-2020 11:03:03.893 INFO  pages.LoginPage -Password is filled
+01-Jun-2020 11:03:04.210 INFO  pages.LoginPage -Sign in button is displayed
+01-Jun-2020 11:03:04.479 INFO  pages.LoginPage -Sign in button is clicked
+01-Jun-2020 11:03:27.146 DEBUG generics.BaseTest -Element is not clickable
+01-Jun-2020 11:03:27.147 INFO  pages.LoginPage -yes I understand is visible
+01-Jun-2020 11:03:27.147 INFO  CommonDP.ProductsScript -(Yes I understand) is not Displayed, but handled
+01-Jun-2020 11:03:27.183 INFO  generics.BaseTest -loginis sucessfully executed
+01-Jun-2020 11:03:35.164 INFO  generics.BaseTest -=======================================================================
+01-Jun-2020 11:03:35.164 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+01-Jun-2020 11:03:35.165 INFO  generics.BaseTest -=======================================================================
+01-Jun-2020 11:03:35.166 INFO  generics.BaseTest -Path set up successful
+01-Jun-2020 11:03:36.055 INFO  pages.LoginPage -=======================================================================
+01-Jun-2020 11:03:36.056 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+01-Jun-2020 11:03:36.057 INFO  pages.LoginPage -=======================================================================
+01-Jun-2020 11:03:38.470 INFO  generics.BaseTest -Chrome browser window is maximized
+01-Jun-2020 11:04:00.001 INFO  generics.BaseTest -loginis failed

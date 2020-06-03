@@ -1,0 +1,16 @@
+package com.zoho.crm.generics;
+
+public interface IConstant {
+	public static final String CHROME_KEY = "webdriver.chrome.driver";
+	String CHROME_VALUE = "./driver/chromedriver.exe";
+	
+	String GECKO_KEY= "webdriver.gecko.driver";
+	String GECKO_VALUE = "./driver/geckodriver.exe";
+	
+	public static final String PHOTO_PATH = "./screenShots/";
+	
+	
+	long ITO = 10;
+	long ETO = 30;
+
+}

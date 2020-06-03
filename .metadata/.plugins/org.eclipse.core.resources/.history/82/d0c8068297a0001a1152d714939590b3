@@ -1,0 +1,49 @@
+28-May-2020 08:52:47.324 INFO  generics.BaseTest -=======================================================================
+28-May-2020 08:52:47.345 DEBUG generics.BaseTest -Firefox browser is launched successfully!!
+28-May-2020 08:52:47.346 INFO  generics.BaseTest -=======================================================================
+28-May-2020 08:52:47.347 INFO  generics.BaseTest -Path set up successful
+28-May-2020 08:52:47.549 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 08:52:56.767 INFO  generics.BaseTest -Current url opened is: http://www.zoho.com
+28-May-2020 08:53:10.089 INFO  generics.BaseTest -runis failed
+28-May-2020 08:53:10.476 INFO  generics.BaseTest -Screenshot is taken for the failed method: run
+28-May-2020 08:53:14.599 INFO  generics.BaseTest -Chrome browser window is closed..
+28-May-2020 08:55:05.543 INFO  generics.BaseTest -=======================================================================
+28-May-2020 08:55:05.564 DEBUG generics.BaseTest -Firefox browser is launched successfully!!
+28-May-2020 08:55:05.565 INFO  generics.BaseTest -=======================================================================
+28-May-2020 08:55:05.567 INFO  generics.BaseTest -Path set up successful
+28-May-2020 08:55:05.673 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 08:55:14.647 INFO  generics.BaseTest -Current url opened is: http://www.zoho.com
+28-May-2020 08:55:24.882 INFO  generics.BaseTest -runis failed
+28-May-2020 08:55:25.289 INFO  generics.BaseTest -Screenshot is taken for the failed method: run
+28-May-2020 08:55:28.997 INFO  generics.BaseTest -Chrome browser window is closed..
+28-May-2020 09:05:26.959 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:05:26.975 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+28-May-2020 09:05:26.976 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:05:26.977 INFO  generics.BaseTest -Path set up successful
+28-May-2020 09:05:29.186 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 09:05:38.481 INFO  generics.BaseTest -Current url opened is: http://www.zoho.com
+28-May-2020 09:05:48.696 INFO  generics.BaseTest -runis failed
+28-May-2020 09:05:49.310 INFO  generics.BaseTest -Screenshot is taken for the failed method: run
+28-May-2020 09:05:49.790 INFO  generics.BaseTest -Chrome browser window is closed..
+28-May-2020 09:07:11.823 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:07:11.846 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+28-May-2020 09:07:11.846 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:07:11.847 INFO  generics.BaseTest -Path set up successful
+28-May-2020 09:07:14.133 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:07:14.134 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+28-May-2020 09:07:14.134 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:07:16.319 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 09:07:24.835 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+28-May-2020 09:07:26.235 INFO  pages.LoginPage -login button is displayed
+28-May-2020 09:07:30.758 INFO  pages.LoginPage -login button is clicked
+28-May-2020 09:07:31.173 INFO  pages.LoginPage -Email text field is displayed
+28-May-2020 09:07:32.528 INFO  pages.LoginPage -Email is filled
+28-May-2020 09:07:33.059 INFO  pages.LoginPage -Next Button is displayed
+28-May-2020 09:07:33.311 INFO  pages.LoginPage -After Email NextBtn is clicked
+28-May-2020 09:07:33.871 INFO  pages.LoginPage -Password text field is displayed
+28-May-2020 09:07:34.201 INFO  pages.LoginPage -Password is filled
+28-May-2020 09:07:34.590 INFO  pages.LoginPage -Sign in button is displayed
+28-May-2020 09:07:34.838 INFO  pages.LoginPage -Sign in button is clicked
+28-May-2020 09:07:55.065 INFO  generics.BaseTest -(Yes I understand) is not Displayed, but handled
+28-May-2020 09:08:15.237 INFO  generics.BaseTest -loginis failed
+28-May-2020 09:08:15.840 INFO  generics.BaseTest -Screenshot is taken for the failed method: login

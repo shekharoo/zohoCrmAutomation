@@ -1,0 +1,134 @@
+01-Jun-2020 08:24:40.250 INFO  generics.BaseTest -=======================================================================
+01-Jun-2020 08:24:40.384 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+01-Jun-2020 08:24:40.384 INFO  generics.BaseTest -=======================================================================
+01-Jun-2020 08:24:40.386 INFO  generics.BaseTest -Path set up successful
+01-Jun-2020 08:24:43.174 INFO  pages.LoginPage -=======================================================================
+01-Jun-2020 08:24:43.175 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+01-Jun-2020 08:24:43.178 INFO  pages.LoginPage -=======================================================================
+01-Jun-2020 08:24:45.504 INFO  generics.BaseTest -Chrome browser window is maximized
+01-Jun-2020 08:24:57.466 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+01-Jun-2020 08:25:00.991 INFO  pages.LoginPage -login button is displayed
+01-Jun-2020 08:25:07.166 INFO  pages.LoginPage -login button is clicked
+01-Jun-2020 08:25:07.490 INFO  pages.LoginPage -Email text field is displayed
+01-Jun-2020 08:25:08.681 INFO  pages.LoginPage -Email is filled
+01-Jun-2020 08:25:09.030 INFO  pages.LoginPage -Next Button is displayed
+01-Jun-2020 08:25:09.357 INFO  pages.LoginPage -After Email NextBtn is clicked
+01-Jun-2020 08:25:09.734 INFO  pages.LoginPage -Password text field is displayed
+01-Jun-2020 08:25:10.114 INFO  pages.LoginPage -Password is filled
+01-Jun-2020 08:25:10.495 INFO  pages.LoginPage -Sign in button is displayed
+01-Jun-2020 08:25:10.731 INFO  pages.LoginPage -Sign in button is clicked
+01-Jun-2020 08:25:16.142 DEBUG generics.BaseTest -Element is not clickable
+01-Jun-2020 08:25:16.143 INFO  pages.LoginPage -yes I understand is visible
+01-Jun-2020 08:25:16.143 INFO  generics.BaseTest -(Yes I understand) is not Displayed, but handled
+01-Jun-2020 08:25:16.158 INFO  generics.BaseTest -loginis sucessfully executed
+01-Jun-2020 08:25:16.739 INFO  pages.PriceBooksPage -=======================================================================
+01-Jun-2020 08:25:16.739 INFO  pages.PriceBooksPage -Initialization of elements successfull for Price Books Page elements!!
+01-Jun-2020 08:25:16.739 INFO  pages.PriceBooksPage -=======================================================================
+01-Jun-2020 09:12:03.834 INFO  generics.BaseTest -=======================================================================
+01-Jun-2020 09:12:03.864 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+01-Jun-2020 09:12:03.864 INFO  generics.BaseTest -=======================================================================
+01-Jun-2020 09:12:03.865 INFO  generics.BaseTest -Path set up successful
+01-Jun-2020 09:12:06.383 INFO  scripts.ProductsScript -Login Details Fetch successful
+01-Jun-2020 09:12:07.118 INFO  scripts.ProductsScript -Products details Fetch successful
+01-Jun-2020 09:12:07.671 INFO  scripts.ProductsScript -Login Details Fetch successful
+01-Jun-2020 09:12:07.914 INFO  pages.LoginPage -=======================================================================
+01-Jun-2020 09:12:07.915 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+01-Jun-2020 09:12:07.915 INFO  pages.LoginPage -=======================================================================
+01-Jun-2020 09:12:10.532 INFO  generics.BaseTest -Chrome browser window is maximized
+01-Jun-2020 09:12:24.750 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+01-Jun-2020 09:12:26.045 INFO  pages.LoginPage -login button is displayed
+01-Jun-2020 09:12:31.146 INFO  pages.LoginPage -login button is clicked
+01-Jun-2020 09:12:31.467 INFO  pages.LoginPage -Email text field is displayed
+01-Jun-2020 09:12:33.005 INFO  pages.LoginPage -Email is filled
+01-Jun-2020 09:12:33.356 INFO  pages.LoginPage -Next Button is displayed
+01-Jun-2020 09:12:33.633 INFO  pages.LoginPage -After Email NextBtn is clicked
+01-Jun-2020 09:12:34.369 INFO  pages.LoginPage -Password text field is displayed
+01-Jun-2020 09:12:34.769 INFO  pages.LoginPage -Password is filled
+01-Jun-2020 09:12:35.223 INFO  pages.LoginPage -Sign in button is displayed
+01-Jun-2020 09:12:35.528 INFO  pages.LoginPage -Sign in button is clicked
+01-Jun-2020 09:12:58.409 DEBUG generics.BaseTest -Element is not clickable
+01-Jun-2020 09:12:58.409 INFO  pages.LoginPage -yes I understand is visible
+01-Jun-2020 09:12:58.410 INFO  scripts.ProductsScript -(Yes I understand) is not Displayed, but handled
+01-Jun-2020 09:12:58.440 INFO  generics.BaseTest -loginis sucessfully executed
+01-Jun-2020 09:12:59.219 INFO  scripts.ProductsScript -Products details Fetch successful
+01-Jun-2020 09:12:59.404 INFO  pages.ProductsPage -=======================================================================
+01-Jun-2020 09:12:59.404 INFO  pages.ProductsPage -Initialization of elements successfull for Products Page elements!!
+01-Jun-2020 09:12:59.405 INFO  pages.ProductsPage -=======================================================================
+01-Jun-2020 09:13:04.602 INFO  pages.ProductsPage -moreOptions textfield is displayed
+01-Jun-2020 09:13:11.408 INFO  pages.ProductsPage -moreOptions is clicked
+01-Jun-2020 09:13:14.664 INFO  pages.ProductsPage -searchBox textfield is displayed
+01-Jun-2020 09:13:20.299 INFO  pages.ProductsPage -searchBox is filled
+01-Jun-2020 09:13:23.173 INFO  pages.ProductsPage -purchaseOrders link is displayed
+01-Jun-2020 09:13:24.986 INFO  pages.ProductsPage -purchaseOrders is clicked
+01-Jun-2020 09:13:25.838 INFO  pages.ProductsPage -=======================================================================
+01-Jun-2020 09:13:25.838 INFO  pages.ProductsPage -=======================================================================
+01-Jun-2020 09:13:57.090 DEBUG generics.BaseTest -Element is not clickable
+01-Jun-2020 09:13:57.091 INFO  scripts.ProductsScript -Clicked on create Products link
+01-Jun-2020 09:13:57.321 INFO  pages.ProductsPage -createAnotherProducts button is displayed
+01-Jun-2020 09:13:58.137 INFO  pages.ProductsPage -createAnotherProducts button is clicked
+01-Jun-2020 09:13:58.137 INFO  scripts.ProductsScript -Clicked on create Another Products link
+01-Jun-2020 09:13:59.972 INFO  pages.ProductsPage -productName textfield is displayed
+01-Jun-2020 09:14:09.389 INFO  pages.ProductsPage -productName is filled
+01-Jun-2020 09:14:09.571 INFO  pages.ProductsPage -productCode textfield is displayed
+01-Jun-2020 09:14:10.761 INFO  pages.ProductsPage -productCode is filled
+01-Jun-2020 09:14:10.934 INFO  pages.ProductsPage -vendorLookUpIcon is displayed
+01-Jun-2020 09:14:11.320 INFO  pages.ProductsPage -vendorLookUpIcon is clicked
+01-Jun-2020 09:14:12.369 INFO  pages.ProductsPage -addNewVendor button is displayed
+01-Jun-2020 09:14:12.766 INFO  pages.ProductsPage -addNewVendor button is clicked
+01-Jun-2020 09:14:13.413 INFO  pages.ProductsPage -vendorName textfield is displayed
+01-Jun-2020 09:14:13.929 INFO  pages.ProductsPage -vendorName is filled
+01-Jun-2020 09:14:14.171 INFO  pages.ProductsPage -vendorPhone textfield is displayed
+01-Jun-2020 09:14:14.618 INFO  pages.ProductsPage -vendorPhone is filled
+01-Jun-2020 09:14:14.797 INFO  pages.ProductsPage -vendorEmail textfield is displayed
+01-Jun-2020 09:14:15.397 INFO  pages.ProductsPage -vendorEmail is filled
+01-Jun-2020 09:14:15.667 INFO  pages.ProductsPage -vendorSave button is displayed
+01-Jun-2020 09:14:16.068 INFO  pages.ProductsPage -vendorSave button is clicked
+01-Jun-2020 09:14:17.624 INFO  pages.ProductsPage -selectVendor is displayed
+01-Jun-2020 09:14:17.990 INFO  pages.ProductsPage -selectVendor is clicked
+01-Jun-2020 09:14:18.518 INFO  pages.ProductsPage -selectManufacturer is displayed
+01-Jun-2020 09:14:19.118 INFO  pages.ProductsPage -selectManufacturer is clicked
+01-Jun-2020 09:14:19.453 INFO  pages.ProductsPage -selManftr is displayed
+01-Jun-2020 09:14:19.919 INFO  pages.ProductsPage -selManftr is clicked
+01-Jun-2020 09:14:20.189 INFO  pages.ProductsPage -clickProdCategory is displayed
+01-Jun-2020 09:14:20.659 INFO  pages.ProductsPage -clickProdCategory is clicked
+01-Jun-2020 09:14:20.984 INFO  pages.ProductsPage -selectProdCategory is displayed
+01-Jun-2020 09:14:21.386 INFO  pages.ProductsPage -selectProdCategory is clicked
+01-Jun-2020 09:14:21.601 INFO  pages.ProductsPage -startDate is displayed
+01-Jun-2020 09:14:22.351 INFO  pages.ProductsPage -startDate is filled
+01-Jun-2020 09:14:22.533 INFO  pages.ProductsPage -endDate is displayed
+01-Jun-2020 09:14:23.393 INFO  pages.ProductsPage -endDate is filled
+01-Jun-2020 09:14:23.598 INFO  pages.ProductsPage -supportStartDate is displayed
+01-Jun-2020 09:14:24.306 INFO  pages.ProductsPage -supportStartDate is filled
+01-Jun-2020 09:14:24.491 INFO  pages.ProductsPage -suppExpiryDate is displayed
+01-Jun-2020 09:14:25.203 INFO  pages.ProductsPage -suppExpiryDate is filled
+01-Jun-2020 09:14:25.358 INFO  pages.ProductsPage -unitPrice is displayed
+01-Jun-2020 09:14:25.893 INFO  pages.ProductsPage -unitPrice is filled
+01-Jun-2020 09:14:26.085 INFO  pages.ProductsPage -commRate is displayed
+01-Jun-2020 09:14:26.370 INFO  pages.ProductsPage -commRate is filled
+01-Jun-2020 09:14:26.669 INFO  pages.ProductsPage -tax is displayed
+01-Jun-2020 09:14:27.073 INFO  pages.ProductsPage -tax is clicked
+01-Jun-2020 09:14:27.520 INFO  pages.ProductsPage -salesTax is displayed
+01-Jun-2020 09:14:28.405 INFO  pages.ProductsPage -selUsage is displayed
+01-Jun-2020 09:14:29.088 INFO  pages.ProductsPage -selUsage is clicked
+01-Jun-2020 09:14:29.336 INFO  pages.ProductsPage -selUsageUnit is displayed
+01-Jun-2020 09:14:29.819 INFO  pages.ProductsPage -selUsageUnit is clicked
+01-Jun-2020 09:14:30.020 INFO  pages.ProductsPage -qtyOrdered is displayed
+01-Jun-2020 09:14:30.323 INFO  pages.ProductsPage -qtyOrdered is filled
+01-Jun-2020 09:14:30.507 INFO  pages.ProductsPage -qtyStock is displayed
+01-Jun-2020 09:14:30.829 INFO  pages.ProductsPage -qtyStock is filled
+01-Jun-2020 09:14:31.010 INFO  pages.ProductsPage -reOrderLevel is displayed
+01-Jun-2020 09:14:31.329 INFO  pages.ProductsPage -reOrderLevel is filled
+01-Jun-2020 09:14:31.560 INFO  pages.ProductsPage -clickHandler is displayed
+01-Jun-2020 09:14:32.229 INFO  pages.ProductsPage -clickHandler is clicked
+01-Jun-2020 09:14:32.524 INFO  pages.ProductsPage -selHandler is displayed
+01-Jun-2020 09:14:33.179 INFO  pages.ProductsPage -selHandler is clicked
+01-Jun-2020 09:14:33.544 INFO  pages.ProductsPage -qtyDemand is displayed
+01-Jun-2020 09:14:34.041 INFO  pages.ProductsPage -qtyDemand is clicked
+01-Jun-2020 09:14:34.647 INFO  pages.ProductsPage -prodDescription is displayed
+01-Jun-2020 09:14:36.303 INFO  pages.ProductsPage -prodDescription is clicked
+01-Jun-2020 09:14:36.562 INFO  pages.ProductsPage -save button is displayed
+01-Jun-2020 09:14:37.131 INFO  pages.ProductsPage -save button is clicked
+01-Jun-2020 09:14:54.302 DEBUG generics.BaseTest -Element is not clickable
+01-Jun-2020 09:14:54.302 INFO  pages.ProductsPage -clickNewVersion is displayed
+01-Jun-2020 09:14:54.330 INFO  generics.BaseTest -productsPageis failed
+01-Jun-2020 09:14:54.529 INFO  generics.BaseTest -Screenshot is taken for the failed method: productsPage

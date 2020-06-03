@@ -1,0 +1,100 @@
+27-May-2020 16:09:13.970 INFO  generics.BaseTest -=======================================================================
+27-May-2020 16:09:13.995 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+27-May-2020 16:09:13.995 INFO  generics.BaseTest -=======================================================================
+27-May-2020 16:09:16.357 INFO  pages.LoginPage -=======================================================================
+27-May-2020 16:09:16.357 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+27-May-2020 16:09:16.358 INFO  pages.LoginPage -=======================================================================
+27-May-2020 16:09:18.668 INFO  generics.BaseTest -Chrome browser window is maximized
+27-May-2020 16:09:28.967 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+27-May-2020 16:09:29.665 INFO  pages.LoginPage -login button is displayed
+27-May-2020 16:09:35.070 INFO  pages.LoginPage -login button is clicked
+27-May-2020 16:09:35.718 INFO  pages.LoginPage -Email text field is displayed
+27-May-2020 16:09:37.151 INFO  pages.LoginPage -Email is filled
+27-May-2020 16:09:37.558 INFO  pages.LoginPage -Next Button is displayed
+27-May-2020 16:09:37.837 INFO  pages.LoginPage -After Email NextBtn is clicked
+27-May-2020 16:09:38.452 INFO  pages.LoginPage -Password text field is displayed
+27-May-2020 16:09:38.799 INFO  pages.LoginPage -Password is filled
+27-May-2020 16:09:39.228 INFO  pages.LoginPage -Sign in button is displayed
+27-May-2020 16:09:39.473 INFO  pages.LoginPage -Sign in button is clicked
+27-May-2020 16:09:40.850 INFO  pages.LoginPage -yes I understand is visible
+27-May-2020 16:09:45.165 INFO  pages.LoginPage -yes I understand is clicked
+27-May-2020 16:09:46.083 INFO  pages.LoginPage -logOut link is displayed
+27-May-2020 16:09:47.154 INFO  pages.LoginPage -logOut link is clicked
+27-May-2020 16:09:48.269 INFO  pages.LoginPage -logOut button is displayed
+27-May-2020 16:09:54.166 INFO  pages.LoginPage -logOut button is clicked
+27-May-2020 16:09:58.588 INFO  generics.BaseTest -Chrome browser window is closed..
+27-May-2020 16:10:03.330 INFO  generics.BaseTest -=======================================================================
+27-May-2020 16:10:03.330 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+27-May-2020 16:10:03.330 INFO  generics.BaseTest -=======================================================================
+27-May-2020 16:10:03.655 INFO  pages.LoginPage -=======================================================================
+27-May-2020 16:10:03.655 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+27-May-2020 16:10:03.655 INFO  pages.LoginPage -=======================================================================
+27-May-2020 16:10:05.846 INFO  generics.BaseTest -Chrome browser window is maximized
+27-May-2020 16:10:15.560 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+27-May-2020 16:10:17.774 INFO  pages.LoginPage -login button is displayed
+27-May-2020 16:10:23.199 INFO  pages.LoginPage -login button is clicked
+27-May-2020 16:10:23.635 INFO  pages.LoginPage -Email text field is displayed
+27-May-2020 16:10:25.099 INFO  pages.LoginPage -Email is filled
+27-May-2020 16:10:25.507 INFO  pages.LoginPage -Next Button is displayed
+27-May-2020 16:10:25.797 INFO  pages.LoginPage -After Email NextBtn is clicked
+27-May-2020 16:10:26.317 INFO  pages.LoginPage -Password text field is displayed
+27-May-2020 16:10:26.664 INFO  pages.LoginPage -Password is filled
+27-May-2020 16:10:27.102 INFO  pages.LoginPage -Sign in button is displayed
+27-May-2020 16:10:27.593 INFO  pages.LoginPage -Sign in button is clicked
+27-May-2020 16:10:29.301 INFO  pages.LoginPage -yes I understand is visible
+27-May-2020 16:10:32.767 INFO  pages.LoginPage -yes I understand is clicked
+27-May-2020 16:10:33.654 INFO  pages.ProductsPage -=======================================================================
+27-May-2020 16:10:33.655 INFO  pages.ProductsPage -Initialization of elements successfull for Products Page elements!!
+27-May-2020 16:10:33.655 INFO  pages.ProductsPage -=======================================================================
+27-May-2020 16:11:15.092 INFO  pages.ProductsPage -=======================================================================
+27-May-2020 16:11:15.093 INFO  pages.ProductsPage -=======================================================================
+27-May-2020 16:12:16.805 DEBUG generics.BaseTest -Click Another product not visible, but handled-->createAnotherProduct
+27-May-2020 16:12:52.482 INFO  generics.BaseTest -Chrome browser window is closed..
+27-May-2020 16:12:57.238 INFO  generics.BaseTest -=======================================================================
+27-May-2020 16:12:57.239 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+27-May-2020 16:12:57.239 INFO  generics.BaseTest -=======================================================================
+27-May-2020 16:12:57.653 INFO  pages.LoginPage -=======================================================================
+27-May-2020 16:12:57.653 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+27-May-2020 16:12:57.653 INFO  pages.LoginPage -=======================================================================
+27-May-2020 16:13:00.152 INFO  generics.BaseTest -Chrome browser window is maximized
+27-May-2020 16:13:11.518 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+27-May-2020 16:13:12.213 INFO  pages.LoginPage -login button is displayed
+27-May-2020 16:13:17.185 INFO  pages.LoginPage -login button is clicked
+27-May-2020 16:13:17.608 INFO  pages.LoginPage -Email text field is displayed
+27-May-2020 16:13:18.813 INFO  pages.LoginPage -Email is filled
+27-May-2020 16:13:19.235 INFO  pages.LoginPage -Next Button is displayed
+27-May-2020 16:13:19.516 INFO  pages.LoginPage -After Email NextBtn is clicked
+27-May-2020 16:13:20.004 INFO  pages.LoginPage -Password text field is displayed
+27-May-2020 16:13:20.343 INFO  pages.LoginPage -Password is filled
+27-May-2020 16:13:20.767 INFO  pages.LoginPage -Sign in button is displayed
+27-May-2020 16:13:20.990 INFO  pages.LoginPage -Sign in button is clicked
+27-May-2020 16:13:22.703 INFO  pages.LoginPage -yes I understand is visible
+27-May-2020 16:13:24.788 INFO  pages.LoginPage -yes I understand is clicked
+27-May-2020 16:13:25.470 INFO  pages.PriceBooksPage -=======================================================================
+27-May-2020 16:13:25.470 INFO  pages.PriceBooksPage -Initialization of elements successfull for Price Books Page elements!!
+27-May-2020 16:13:25.470 INFO  pages.PriceBooksPage -=======================================================================
+27-May-2020 16:13:43.809 INFO  pages.PriceBooksPage -moreOptions button is displayed
+27-May-2020 16:13:45.233 INFO  pages.PriceBooksPage -moreOptions button is clicked
+27-May-2020 16:13:59.547 INFO  pages.PriceBooksPage -searchBox textbox is displayed
+27-May-2020 16:14:15.350 INFO  generics.BaseTest -Chrome browser window is closed..
+27-May-2020 16:14:19.542 INFO  generics.BaseTest -=======================================================================
+27-May-2020 16:14:19.542 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+27-May-2020 16:14:19.542 INFO  generics.BaseTest -=======================================================================
+27-May-2020 16:14:19.884 INFO  pages.LoginPage -=======================================================================
+27-May-2020 16:14:19.884 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+27-May-2020 16:14:19.884 INFO  pages.LoginPage -=======================================================================
+27-May-2020 16:14:22.087 INFO  generics.BaseTest -Chrome browser window is maximized
+27-May-2020 16:14:32.707 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+27-May-2020 16:14:33.759 INFO  pages.LoginPage -login button is displayed
+27-May-2020 16:14:38.513 INFO  pages.LoginPage -login button is clicked
+27-May-2020 16:14:38.921 INFO  pages.LoginPage -Email text field is displayed
+27-May-2020 16:14:40.112 INFO  pages.LoginPage -Email is filled
+27-May-2020 16:14:40.555 INFO  pages.LoginPage -Next Button is displayed
+27-May-2020 16:14:40.825 INFO  pages.LoginPage -After Email NextBtn is clicked
+27-May-2020 16:14:41.285 INFO  pages.LoginPage -Password text field is displayed
+27-May-2020 16:14:41.714 INFO  pages.LoginPage -Password is filled
+27-May-2020 16:14:42.132 INFO  pages.LoginPage -Sign in button is displayed
+27-May-2020 16:14:42.367 INFO  pages.LoginPage -Sign in button is clicked
+27-May-2020 16:14:44.011 INFO  pages.LoginPage -yes I understand is visible
+27-May-2020 16:14:48.085 INFO  pages.LoginPage -yes I understand is clicked
+27-May-2020 16:14:48.761 INFO  generics.BaseTest -Chrome browser window is closed..

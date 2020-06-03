@@ -1,0 +1,325 @@
+28-May-2020 09:28:53.879 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:28:53.895 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+28-May-2020 09:28:53.896 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:28:53.897 INFO  generics.BaseTest -Path set up successful
+28-May-2020 09:28:56.379 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:28:56.379 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+28-May-2020 09:28:56.379 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:28:58.566 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 09:29:40.574 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+28-May-2020 09:29:41.095 INFO  pages.LoginPage -login button is displayed
+28-May-2020 09:30:19.727 INFO  pages.LoginPage -login button is clicked
+28-May-2020 09:30:20.051 INFO  pages.LoginPage -Email text field is displayed
+28-May-2020 09:30:21.136 INFO  pages.LoginPage -Email is filled
+28-May-2020 09:30:21.582 INFO  pages.LoginPage -Next Button is displayed
+28-May-2020 09:30:21.778 INFO  pages.LoginPage -After Email NextBtn is clicked
+28-May-2020 09:30:25.250 INFO  pages.LoginPage -Password text field is displayed
+28-May-2020 09:30:25.506 INFO  pages.LoginPage -Password is filled
+28-May-2020 09:30:25.777 INFO  pages.LoginPage -Sign in button is displayed
+28-May-2020 09:30:25.954 INFO  pages.LoginPage -Sign in button is clicked
+28-May-2020 09:30:46.678 INFO  generics.BaseTest -(Yes I understand) is not Displayed, but handled
+28-May-2020 09:30:51.816 INFO  generics.BaseTest -loginis failed
+28-May-2020 09:30:52.288 INFO  generics.BaseTest -Screenshot is taken for the failed method: login
+28-May-2020 09:30:52.811 INFO  generics.BaseTest -Chrome browser window is closed..
+28-May-2020 09:30:57.917 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:30:57.918 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+28-May-2020 09:30:57.918 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:30:57.919 INFO  generics.BaseTest -Path set up successful
+28-May-2020 09:30:58.298 INFO  scripts.ProductsScript -Login Deatils Fetch successful
+28-May-2020 09:30:58.903 INFO  scripts.ProductsScript -Products deatils Fetch successful
+28-May-2020 09:30:59.279 INFO  scripts.ProductsScript -Login Deatils Fetch successful
+28-May-2020 09:30:59.346 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:30:59.346 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+28-May-2020 09:30:59.346 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:31:01.530 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 09:31:54.817 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+28-May-2020 09:31:55.202 INFO  pages.LoginPage -login button is displayed
+28-May-2020 09:32:21.877 INFO  pages.LoginPage -login button is clicked
+28-May-2020 09:32:22.333 INFO  pages.LoginPage -Email text field is displayed
+28-May-2020 09:32:23.360 INFO  pages.LoginPage -Email is filled
+28-May-2020 09:32:23.755 INFO  pages.LoginPage -Next Button is displayed
+28-May-2020 09:32:23.982 INFO  pages.LoginPage -After Email NextBtn is clicked
+28-May-2020 09:32:25.566 INFO  pages.LoginPage -Password text field is displayed
+28-May-2020 09:32:25.811 INFO  pages.LoginPage -Password is filled
+28-May-2020 09:32:26.089 INFO  pages.LoginPage -Sign in button is displayed
+28-May-2020 09:32:26.259 INFO  pages.LoginPage -Sign in button is clicked
+28-May-2020 09:32:46.371 INFO  scripts.ProductsScript -(Yes I understand) is not Displayed, but handled
+28-May-2020 09:32:46.383 INFO  generics.BaseTest -loginis sucessfully executed
+28-May-2020 09:32:46.735 INFO  scripts.ProductsScript -Products deatils Fetch successful
+28-May-2020 09:32:46.852 INFO  pages.ProductsPage -=======================================================================
+28-May-2020 09:32:46.853 INFO  pages.ProductsPage -Initialization of elements successfull for Products Page elements!!
+28-May-2020 09:32:46.853 INFO  pages.ProductsPage -=======================================================================
+28-May-2020 09:33:02.188 INFO  generics.BaseTest -productsPageis failed
+28-May-2020 09:33:02.826 INFO  generics.BaseTest -Screenshot is taken for the failed method: productsPage
+28-May-2020 09:33:03.185 INFO  generics.BaseTest -Chrome browser window is closed..
+28-May-2020 09:33:07.957 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:33:07.958 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+28-May-2020 09:33:07.958 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:33:07.959 INFO  generics.BaseTest -Path set up successful
+28-May-2020 09:33:08.769 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:33:08.769 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+28-May-2020 09:33:08.769 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:33:10.968 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 09:34:11.979 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+28-May-2020 09:34:12.312 INFO  pages.LoginPage -login button is displayed
+28-May-2020 09:34:45.478 INFO  pages.LoginPage -login button is clicked
+28-May-2020 09:34:45.860 INFO  pages.LoginPage -Email text field is displayed
+28-May-2020 09:34:47.128 INFO  pages.LoginPage -Email is filled
+28-May-2020 09:34:47.435 INFO  pages.LoginPage -Next Button is displayed
+28-May-2020 09:34:47.647 INFO  pages.LoginPage -After Email NextBtn is clicked
+28-May-2020 09:34:49.779 INFO  pages.LoginPage -Password text field is displayed
+28-May-2020 09:34:50.030 INFO  pages.LoginPage -Password is filled
+28-May-2020 09:34:50.321 INFO  pages.LoginPage -Sign in button is displayed
+28-May-2020 09:34:50.490 INFO  pages.LoginPage -Sign in button is clicked
+28-May-2020 09:35:10.670 INFO  generics.BaseTest -(Yes I understand) is not Displayed, but handled
+28-May-2020 09:35:10.677 INFO  generics.BaseTest -loginis sucessfully executed
+28-May-2020 09:35:11.043 INFO  pages.PriceBooksPage -=======================================================================
+28-May-2020 09:35:11.043 INFO  pages.PriceBooksPage -Initialization of elements successfull for Price Books Page elements!!
+28-May-2020 09:35:11.043 INFO  pages.PriceBooksPage -=======================================================================
+28-May-2020 09:35:26.241 INFO  generics.BaseTest -createPriceBooksis failed
+28-May-2020 09:35:26.722 INFO  generics.BaseTest -Screenshot is taken for the failed method: createPriceBooks
+28-May-2020 09:35:27.051 INFO  generics.BaseTest -Chrome browser window is closed..
+28-May-2020 09:35:31.286 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:35:31.286 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+28-May-2020 09:35:31.286 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:35:31.287 INFO  generics.BaseTest -Path set up successful
+28-May-2020 09:35:31.978 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:35:31.978 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+28-May-2020 09:35:31.978 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:35:34.196 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 09:43:26.871 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:43:26.889 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+28-May-2020 09:43:26.889 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:43:26.891 INFO  generics.BaseTest -Path set up successful
+28-May-2020 09:43:30.061 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:43:30.062 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+28-May-2020 09:43:30.062 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:43:32.246 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 09:43:42.970 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+28-May-2020 09:43:43.721 INFO  pages.LoginPage -login button is displayed
+28-May-2020 09:43:50.965 INFO  pages.LoginPage -login button is clicked
+28-May-2020 09:43:51.622 INFO  pages.LoginPage -Email text field is displayed
+28-May-2020 09:43:52.724 INFO  pages.LoginPage -Email is filled
+28-May-2020 09:43:53.139 INFO  pages.LoginPage -Next Button is displayed
+28-May-2020 09:43:53.368 INFO  pages.LoginPage -After Email NextBtn is clicked
+28-May-2020 09:43:54.518 INFO  pages.LoginPage -Password text field is displayed
+28-May-2020 09:43:54.783 INFO  pages.LoginPage -Password is filled
+28-May-2020 09:43:55.074 INFO  pages.LoginPage -Sign in button is displayed
+28-May-2020 09:43:55.246 INFO  pages.LoginPage -Sign in button is clicked
+28-May-2020 09:44:16.415 INFO  scripts.QuotesScript -(Yes I understand) is not Displayed, but handled
+28-May-2020 09:44:16.441 INFO  generics.BaseTest -loginis sucessfully executed
+28-May-2020 09:44:17.150 INFO  pages.QuotesPage -=======================================================================
+28-May-2020 09:44:17.150 INFO  pages.QuotesPage -Initialization of elements successful for Quotes elements!!
+28-May-2020 09:44:17.151 INFO  pages.QuotesPage -=======================================================================
+28-May-2020 09:44:20.892 INFO  pages.QuotesPage -quotesLink is displayed
+28-May-2020 09:44:22.159 INFO  pages.QuotesPage -quotesLink is clicked
+28-May-2020 09:44:24.610 INFO  pages.QuotesPage -=======================================================================
+28-May-2020 09:44:24.611 INFO  pages.QuotesPage -Switch to Purchase Orders module frame successful
+28-May-2020 09:44:24.611 INFO  pages.QuotesPage -=======================================================================
+28-May-2020 09:44:35.905 INFO  pages.QuotesPage -Create New createQuote button is clicked
+28-May-2020 09:45:07.578 INFO  pages.QuotesPage -dealNameLookUpIcon is displayed
+28-May-2020 09:45:08.015 INFO  pages.QuotesPage -dealNameLookUpIcon is clicked
+28-May-2020 09:45:38.684 INFO  generics.BaseTest -createQuoteis failed
+28-May-2020 09:45:39.218 INFO  generics.BaseTest -Screenshot is taken for the failed method: createQuote
+28-May-2020 09:45:39.695 INFO  generics.BaseTest -Chrome browser window is closed..
+28-May-2020 09:49:36.891 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:49:36.904 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+28-May-2020 09:49:36.905 INFO  generics.BaseTest -=======================================================================
+28-May-2020 09:49:36.906 INFO  generics.BaseTest -Path set up successful
+28-May-2020 09:49:39.924 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:49:39.924 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+28-May-2020 09:49:39.924 INFO  pages.LoginPage -=======================================================================
+28-May-2020 09:49:42.108 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 09:50:13.168 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+28-May-2020 09:50:13.710 INFO  pages.LoginPage -login button is displayed
+28-May-2020 09:50:17.181 INFO  pages.LoginPage -login button is clicked
+28-May-2020 09:50:17.495 INFO  pages.LoginPage -Email text field is displayed
+28-May-2020 09:50:18.739 INFO  pages.LoginPage -Email is filled
+28-May-2020 09:50:19.122 INFO  pages.LoginPage -Next Button is displayed
+28-May-2020 09:50:19.352 INFO  pages.LoginPage -After Email NextBtn is clicked
+28-May-2020 09:50:19.839 INFO  pages.LoginPage -Password text field is displayed
+28-May-2020 09:50:20.142 INFO  pages.LoginPage -Password is filled
+28-May-2020 09:50:20.520 INFO  pages.LoginPage -Sign in button is displayed
+28-May-2020 09:50:20.753 INFO  pages.LoginPage -Sign in button is clicked
+28-May-2020 09:50:41.004 INFO  scripts.QuotesScript -(Yes I understand) is not Displayed, but handled
+28-May-2020 09:50:41.023 INFO  generics.BaseTest -loginis sucessfully executed
+28-May-2020 09:50:41.670 INFO  pages.QuotesPage -=======================================================================
+28-May-2020 09:50:41.670 INFO  pages.QuotesPage -Initialization of elements successful for Quotes elements!!
+28-May-2020 09:50:41.670 INFO  pages.QuotesPage -=======================================================================
+28-May-2020 09:51:12.385 INFO  generics.BaseTest -createQuoteis failed
+28-May-2020 09:51:12.896 INFO  generics.BaseTest -Screenshot is taken for the failed method: createQuote
+28-May-2020 09:51:13.321 INFO  generics.BaseTest -Chrome browser window is closed..
+28-May-2020 11:58:43.516 INFO  generics.BaseTest -=======================================================================
+28-May-2020 11:58:43.565 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+28-May-2020 11:58:43.566 INFO  generics.BaseTest -=======================================================================
+28-May-2020 11:58:43.567 INFO  generics.BaseTest -Path set up successful
+28-May-2020 11:58:48.707 INFO  pages.LoginPage -=======================================================================
+28-May-2020 11:58:48.708 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+28-May-2020 11:58:48.708 INFO  pages.LoginPage -=======================================================================
+28-May-2020 11:58:51.737 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 11:59:10.626 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+28-May-2020 11:59:14.550 INFO  pages.LoginPage -login button is displayed
+28-May-2020 11:59:20.852 INFO  pages.LoginPage -login button is clicked
+28-May-2020 11:59:21.294 INFO  pages.LoginPage -Email text field is displayed
+28-May-2020 11:59:23.438 INFO  pages.LoginPage -Email is filled
+28-May-2020 11:59:23.966 INFO  pages.LoginPage -Next Button is displayed
+28-May-2020 11:59:24.489 INFO  pages.LoginPage -After Email NextBtn is clicked
+28-May-2020 11:59:25.396 INFO  pages.LoginPage -Password text field is displayed
+28-May-2020 11:59:26.708 INFO  pages.LoginPage -Password is filled
+28-May-2020 11:59:27.375 INFO  pages.LoginPage -Sign in button is displayed
+28-May-2020 11:59:27.691 INFO  pages.LoginPage -Sign in button is clicked
+28-May-2020 11:59:51.504 INFO  generics.BaseTest -(Yes I understand) is not Displayed, but handled
+28-May-2020 12:00:02.606 INFO  pages.LoginPage -logOut link is displayed
+28-May-2020 12:00:04.285 INFO  pages.LoginPage -logOut link is clicked
+28-May-2020 12:00:16.863 INFO  pages.LoginPage -logOut button is displayed
+28-May-2020 12:00:28.836 INFO  pages.LoginPage -logOut button is clicked
+28-May-2020 12:00:29.841 INFO  generics.BaseTest -Chrome browser window is closed..
+28-May-2020 12:00:29.846 INFO  generics.BaseTest -loginis sucessfully executed
+28-May-2020 12:00:35.766 INFO  generics.BaseTest -=======================================================================
+28-May-2020 12:00:35.767 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+28-May-2020 12:00:35.767 INFO  generics.BaseTest -=======================================================================
+28-May-2020 12:00:35.768 INFO  generics.BaseTest -Path set up successful
+28-May-2020 12:00:36.560 INFO  scripts.ProductsScript -Login Details Fetch successful
+28-May-2020 12:00:37.449 INFO  scripts.ProductsScript -Products details Fetch successful
+28-May-2020 12:00:38.051 INFO  scripts.ProductsScript -Login Details Fetch successful
+28-May-2020 12:00:38.097 INFO  pages.LoginPage -=======================================================================
+28-May-2020 12:00:38.097 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+28-May-2020 12:00:38.097 INFO  pages.LoginPage -=======================================================================
+28-May-2020 12:00:40.463 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 12:00:55.175 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+28-May-2020 12:00:55.771 INFO  pages.LoginPage -login button is displayed
+28-May-2020 12:01:03.315 INFO  pages.LoginPage -login button is clicked
+28-May-2020 12:01:03.718 INFO  pages.LoginPage -Email text field is displayed
+28-May-2020 12:01:05.874 INFO  pages.LoginPage -Email is filled
+28-May-2020 12:01:06.306 INFO  pages.LoginPage -Next Button is displayed
+28-May-2020 12:01:06.606 INFO  pages.LoginPage -After Email NextBtn is clicked
+28-May-2020 12:01:07.239 INFO  pages.LoginPage -Password text field is displayed
+28-May-2020 12:01:07.602 INFO  pages.LoginPage -Password is filled
+28-May-2020 12:01:08.023 INFO  pages.LoginPage -Sign in button is displayed
+28-May-2020 12:01:08.553 INFO  pages.LoginPage -Sign in button is clicked
+28-May-2020 12:01:33.635 INFO  scripts.ProductsScript -(Yes I understand) is not Displayed, but handled
+28-May-2020 12:01:33.644 INFO  generics.BaseTest -loginis sucessfully executed
+28-May-2020 12:01:34.135 INFO  scripts.ProductsScript -Products details Fetch successful
+28-May-2020 12:01:34.374 INFO  pages.ProductsPage -=======================================================================
+28-May-2020 12:01:34.374 INFO  pages.ProductsPage -Initialization of elements successfull for Products Page elements!!
+28-May-2020 12:01:34.375 INFO  pages.ProductsPage -=======================================================================
+28-May-2020 12:01:38.484 INFO  pages.ProductsPage -moreOptions textfield is displayed
+28-May-2020 12:01:43.764 INFO  pages.ProductsPage -moreOptions is clicked
+28-May-2020 12:01:50.834 INFO  pages.ProductsPage -searchBox textfield is displayed
+28-May-2020 12:01:54.570 INFO  pages.ProductsPage -searchBox is filled
+28-May-2020 12:01:57.883 INFO  pages.ProductsPage -purchaseOrders link is displayed
+28-May-2020 12:01:58.377 INFO  pages.ProductsPage -purchaseOrders is clicked
+28-May-2020 12:01:59.485 INFO  pages.ProductsPage -=======================================================================
+28-May-2020 12:01:59.485 INFO  pages.ProductsPage -=======================================================================
+28-May-2020 12:02:00.645 INFO  pages.ProductsPage -Create New Products button is clicked
+28-May-2020 12:02:00.645 INFO  scripts.ProductsScript -Clicked on create Products link
+28-May-2020 12:02:31.687 INFO  pages.ProductsPage -productName textfield is displayed
+28-May-2020 12:02:41.631 INFO  pages.ProductsPage -productName is filled
+28-May-2020 12:02:41.935 INFO  pages.ProductsPage -productCode textfield is displayed
+28-May-2020 12:02:42.493 INFO  pages.ProductsPage -productCode is filled
+28-May-2020 12:02:42.839 INFO  pages.ProductsPage -vendorLookUpIcon is displayed
+28-May-2020 12:02:43.290 INFO  pages.ProductsPage -vendorLookUpIcon is clicked
+28-May-2020 12:02:44.719 INFO  pages.ProductsPage -addNewVendor button is displayed
+28-May-2020 12:02:45.305 INFO  pages.ProductsPage -addNewVendor button is clicked
+28-May-2020 12:02:46.334 INFO  pages.ProductsPage -vendorName textfield is displayed
+28-May-2020 12:02:46.825 INFO  pages.ProductsPage -vendorName is filled
+28-May-2020 12:02:47.131 INFO  pages.ProductsPage -vendorPhone textfield is displayed
+28-May-2020 12:02:47.813 INFO  pages.ProductsPage -vendorPhone is filled
+28-May-2020 12:02:48.120 INFO  pages.ProductsPage -vendorEmail textfield is displayed
+28-May-2020 12:02:48.838 INFO  pages.ProductsPage -vendorEmail is filled
+28-May-2020 12:02:49.150 INFO  pages.ProductsPage -vendorSave button is displayed
+28-May-2020 12:02:49.532 INFO  pages.ProductsPage -vendorSave button is clicked
+28-May-2020 12:02:51.104 INFO  pages.ProductsPage -selectVendor is displayed
+28-May-2020 12:02:51.528 INFO  pages.ProductsPage -selectVendor is clicked
+28-May-2020 12:02:52.327 INFO  pages.ProductsPage -selectManufacturer is displayed
+28-May-2020 12:02:52.869 INFO  pages.ProductsPage -selectManufacturer is clicked
+28-May-2020 12:02:53.250 INFO  pages.ProductsPage -selManftr is displayed
+28-May-2020 12:02:53.836 INFO  pages.ProductsPage -selManftr is clicked
+28-May-2020 12:02:54.210 INFO  pages.ProductsPage -clickProdCategory is displayed
+28-May-2020 12:02:54.918 INFO  pages.ProductsPage -clickProdCategory is clicked
+28-May-2020 12:02:55.230 INFO  pages.ProductsPage -selectProdCategory is displayed
+28-May-2020 12:02:56.031 INFO  pages.ProductsPage -selectProdCategory is clicked
+28-May-2020 12:02:56.375 INFO  pages.ProductsPage -startDate is displayed
+28-May-2020 12:02:57.412 INFO  pages.ProductsPage -startDate is filled
+28-May-2020 12:02:57.705 INFO  pages.ProductsPage -endDate is displayed
+28-May-2020 12:02:58.628 INFO  pages.ProductsPage -endDate is filled
+28-May-2020 12:02:58.943 INFO  pages.ProductsPage -supportStartDate is displayed
+28-May-2020 12:03:00.219 INFO  pages.ProductsPage -supportStartDate is filled
+28-May-2020 12:03:00.731 INFO  pages.ProductsPage -suppExpiryDate is displayed
+28-May-2020 12:03:02.441 INFO  pages.ProductsPage -suppExpiryDate is filled
+28-May-2020 12:03:02.743 INFO  pages.ProductsPage -unitPrice is displayed
+28-May-2020 12:03:03.476 INFO  pages.ProductsPage -unitPrice is filled
+28-May-2020 12:03:03.774 INFO  pages.ProductsPage -commRate is displayed
+28-May-2020 12:03:04.039 INFO  pages.ProductsPage -commRate is filled
+28-May-2020 12:03:04.480 INFO  pages.ProductsPage -tax is displayed
+28-May-2020 12:03:04.949 INFO  pages.ProductsPage -tax is clicked
+28-May-2020 12:03:05.518 INFO  pages.ProductsPage -salesTax is displayed
+28-May-2020 12:03:06.623 INFO  pages.ProductsPage -selUsage is displayed
+28-May-2020 12:03:07.384 INFO  pages.ProductsPage -selUsage is clicked
+28-May-2020 12:03:07.809 INFO  pages.ProductsPage -selUsageUnit is displayed
+28-May-2020 12:03:08.276 INFO  pages.ProductsPage -selUsageUnit is clicked
+28-May-2020 12:03:08.618 INFO  pages.ProductsPage -qtyOrdered is displayed
+28-May-2020 12:03:09.005 INFO  pages.ProductsPage -qtyOrdered is filled
+28-May-2020 12:03:09.309 INFO  pages.ProductsPage -qtyStock is displayed
+28-May-2020 12:03:09.612 INFO  pages.ProductsPage -qtyStock is filled
+28-May-2020 12:03:09.858 INFO  pages.ProductsPage -reOrderLevel is displayed
+28-May-2020 12:03:10.201 INFO  pages.ProductsPage -reOrderLevel is filled
+28-May-2020 12:03:10.484 INFO  pages.ProductsPage -clickHandler is displayed
+28-May-2020 12:03:11.445 INFO  pages.ProductsPage -clickHandler is clicked
+28-May-2020 12:03:11.912 INFO  pages.ProductsPage -selHandler is displayed
+28-May-2020 12:03:12.313 INFO  pages.ProductsPage -selHandler is clicked
+28-May-2020 12:03:12.678 INFO  pages.ProductsPage -qtyDemand is displayed
+28-May-2020 12:03:12.938 INFO  pages.ProductsPage -qtyDemand is clicked
+28-May-2020 12:03:13.199 INFO  pages.ProductsPage -prodDescription is displayed
+28-May-2020 12:03:14.929 INFO  pages.ProductsPage -prodDescription is clicked
+28-May-2020 12:03:15.881 INFO  pages.ProductsPage -save button is displayed
+28-May-2020 12:03:16.490 INFO  pages.ProductsPage -save button is clicked
+28-May-2020 12:03:36.665 INFO  generics.BaseTest -productsPageis failed
+28-May-2020 12:03:37.505 INFO  generics.BaseTest -Screenshot is taken for the failed method: productsPage
+28-May-2020 12:03:40.190 INFO  generics.BaseTest -Chrome browser window is closed..
+28-May-2020 12:03:40.200 INFO  generics.BaseTest -browserCloseis sucessfully executed
+28-May-2020 12:03:46.331 INFO  generics.BaseTest -=======================================================================
+28-May-2020 12:03:46.331 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+28-May-2020 12:03:46.332 INFO  generics.BaseTest -=======================================================================
+28-May-2020 12:03:46.332 INFO  generics.BaseTest -Path set up successful
+28-May-2020 12:03:47.292 INFO  pages.LoginPage -=======================================================================
+28-May-2020 12:03:47.293 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+28-May-2020 12:03:47.294 INFO  pages.LoginPage -=======================================================================
+28-May-2020 12:03:49.648 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 12:04:08.692 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus
+28-May-2020 12:04:09.688 INFO  pages.LoginPage -login button is displayed
+28-May-2020 12:04:15.122 INFO  pages.LoginPage -login button is clicked
+28-May-2020 12:04:15.733 INFO  pages.LoginPage -Email text field is displayed
+28-May-2020 12:04:17.084 INFO  pages.LoginPage -Email is filled
+28-May-2020 12:04:17.480 INFO  pages.LoginPage -Next Button is displayed
+28-May-2020 12:04:17.766 INFO  pages.LoginPage -After Email NextBtn is clicked
+28-May-2020 12:04:18.334 INFO  pages.LoginPage -Password text field is displayed
+28-May-2020 12:04:18.709 INFO  pages.LoginPage -Password is filled
+28-May-2020 12:04:19.115 INFO  pages.LoginPage -Sign in button is displayed
+28-May-2020 12:04:19.414 INFO  pages.LoginPage -Sign in button is clicked
+28-May-2020 12:04:42.466 INFO  generics.BaseTest -(Yes I understand) is not Displayed, but handled
+28-May-2020 12:04:42.481 INFO  generics.BaseTest -loginis sucessfully executed
+28-May-2020 12:04:43.155 INFO  pages.PriceBooksPage -=======================================================================
+28-May-2020 12:04:43.155 INFO  pages.PriceBooksPage -Initialization of elements successfull for Price Books Page elements!!
+28-May-2020 12:04:43.155 INFO  pages.PriceBooksPage -=======================================================================
+28-May-2020 12:04:55.261 INFO  pages.PriceBooksPage -moreOptions button is displayed
+28-May-2020 12:04:58.768 INFO  pages.PriceBooksPage -moreOptions button is clicked
+28-May-2020 12:05:03.186 INFO  pages.PriceBooksPage -searchBox textbox is displayed
+28-May-2020 12:05:05.287 INFO  pages.PriceBooksPage -searchBox result is clicked
+28-May-2020 12:05:07.029 INFO  pages.PriceBooksPage -priceBooks link is displayed
+28-May-2020 12:05:07.842 INFO  pages.PriceBooksPage -priceBooks link is clicked
+28-May-2020 12:05:09.481 INFO  pages.PriceBooksPage -=======================================================================
+28-May-2020 12:05:09.482 INFO  pages.PriceBooksPage -=======================================================================
+28-May-2020 12:05:50.478 INFO  generics.BaseTest -createPriceBooksis failed
+28-May-2020 12:05:51.098 INFO  generics.BaseTest -Screenshot is taken for the failed method: createPriceBooks
+28-May-2020 12:05:51.876 INFO  generics.BaseTest -Chrome browser window is closed..
+28-May-2020 12:05:51.881 INFO  generics.BaseTest -browserCloseis sucessfully executed
+28-May-2020 12:05:56.729 INFO  generics.BaseTest -=======================================================================
+28-May-2020 12:05:56.729 DEBUG generics.BaseTest -Chrome browser is launched successfully!!
+28-May-2020 12:05:56.730 INFO  generics.BaseTest -=======================================================================
+28-May-2020 12:05:56.730 INFO  generics.BaseTest -Path set up successful
+28-May-2020 12:05:57.674 INFO  pages.LoginPage -=======================================================================
+28-May-2020 12:05:57.674 INFO  pages.LoginPage -Initialization of elements successfull for Login Page elements!!
+28-May-2020 12:05:57.674 INFO  pages.LoginPage -=======================================================================
+28-May-2020 12:06:00.166 INFO  generics.BaseTest -Chrome browser window is maximized
+28-May-2020 12:06:04.753 INFO  generics.BaseTest -Current url opened is: https://www.zoho.com/crm/crmplus

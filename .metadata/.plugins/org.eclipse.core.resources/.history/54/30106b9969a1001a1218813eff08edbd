@@ -1,0 +1,52 @@
+package com.zoho.crm.pages;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+public class Demo {
+//	public static WebDriver driver = null;
+//	static
+//	{
+//		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
+//		driver = new ChromeDriver();
+//		driver.get("https://www.zoho.com/crm/crmplus");
+//	}
+//	//@BeforeTest
+//	public boolean found1()
+//	{
+//		try {
+//			driver.findElement(By.xpath("(//div[@class='zgh-accounts'])[1]/a[1]abc"));
+//			return true;
+//		} catch (Exception n) {
+//			return false;
+//			
+//		}
+//	}	
+//		
+//	@Test(alwaysRun = true)
+//	public void setUp1()
+//	{
+//		System.out.println("Executing");
+//		Assert.assertTrue(found1(),"Element is not found");
+//		System.out.println("Found");
+//	}
+public static void main(String[] args) {
+	if(true)
+	{
+		System.out.println("Hi1..");
+	}
+	if(false)
+	{
+		System.out.println("Hi2..");
+	}
+	if(true)
+	{
+		System.out.println("Hi3..");
+	}
+}
+}
+
+
